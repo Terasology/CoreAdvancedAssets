@@ -1,0 +1,12 @@
+{
+    "parent": "engine:iconItem",
+    "DisplayName": {
+        "name": "Short Fuse"
+    },
+    "Item": {
+        "icon": "CoreAssets:explosives#fuseShort"
+    },
+    "TimedExplosion": {
+        "fuseTimeMs": 2000
+    }
+}

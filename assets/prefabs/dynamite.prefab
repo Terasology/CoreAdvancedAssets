@@ -1,0 +1,13 @@
+{
+    "parent": "engine:iconItem",
+    "DisplayName": {
+        "name": "Dynamite"
+    },
+    "Item": {
+        "icon": "CoreAssets:explosives#dynamiteStick",
+        "usage": "ON_BLOCK"
+    },
+    "ExplosionAction": {
+        "relativeTo": "Target"
+    }
+}

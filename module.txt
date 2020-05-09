@@ -1,10 +1,13 @@
 {
     "id" : "CoreAdvancedAssets",
-    "version" : "0.1.0",
+    "version" : "1.0.0",
     "author" : "The Terasology Foundation",
     "displayName" : "CoreAdvancedAssets",
     "description" : "A collection of assets using and combining features from various (core) modules.",
-    "dependencies" : [],
+    "dependencies" : [
+        { "id": "Explosives", "minVersion": "1.0.0" },
+        { "id": "Furnishings", "minVersion": "1.0.0" }
+    ],
     "serverSideOnly" : false,
     "isAsset": true
 }
