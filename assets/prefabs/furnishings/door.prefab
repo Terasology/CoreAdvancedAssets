@@ -10,11 +10,11 @@
         "usage": "ON_BLOCK"
     },
     "Door": {
-        "topBlockFamily": "CoreBlocks:DoorTop",
-        "bottomBlockFamily": "CoreBlocks:DoorBottom",
+        "topBlockFamily": "CoreAdvancedAssets:DoorTop",
+        "bottomBlockFamily": "CoreAdvancedAssets:DoorBottom",
         "openSound": "CoreAssets:DoorOpen",
         "closeSound": "CoreAssets:DoorClose",
-        "doorRegionPrefab": "CoreBlocks:doorRegion"
+        "doorRegionPrefab": "CoreAdvancedAssets:doorRegion"
     },
     "Health": {
         "currentHealth": 5,
@@ -23,10 +23,10 @@
         "waitBeforeRegen": 2,
         "destroyEntityOnNoHealth": true
     },
-    "BlockDropGrammar": {
-        "itemDrops": ["CoreBlocks:door"]
+    "DropGrammar": {
+        "itemDrops": ["CoreAdvancedAssets:door"]
     },
     "ActAsBlock": {
-        "block": "CoreBlocks:DoorTop"
+        "block": "CoreAdvancedAssets:DoorTop"
     }
 }

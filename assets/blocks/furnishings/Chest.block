@@ -12,7 +12,7 @@
         "topBottom": "CoreAssets:ChestTopBottom"
     },
     "entity": {
-        "prefab": "CoreBlocks:chest"
+        "prefab": "CoreAdvancedAssets:chest"
     },
     "inventory": {
         "stackable": false,

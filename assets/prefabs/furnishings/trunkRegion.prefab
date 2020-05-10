@@ -9,13 +9,13 @@
         "waitBeforeRegen": 2,
         "destroyEntityOnNoHealth": true
     },
-    "BlockDropGrammar": {
+    "DropGrammar": {
         "itemDrops": [
-            "CoreBlocks:trunk"
+            "CoreAdvancedAssets:trunk"
         ]
     },
     "ActAsBlock": {
-        "block": "CoreBlocks:TrunkLeft"
+        "block": "CoreAdvancedAssets:TrunkLeft"
     },
     "InventoryAccess": {
         "input": {

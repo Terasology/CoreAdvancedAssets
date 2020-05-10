@@ -8,7 +8,7 @@
         "usage": "IN_DIRECTION"
     },
     "TunnelAction": {
-        "damageType": "CoreItems:DestructiveExplosiveDamage",
+        "damageType": "CoreAdvancedAssets:DestructiveExplosiveDamage",
         "thoroughness": 0.75
     },
     "PlaySoundAction": {

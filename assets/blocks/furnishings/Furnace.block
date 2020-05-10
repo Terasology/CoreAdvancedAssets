@@ -8,6 +8,6 @@
         "topBottom": "CoreAssets:FurnaceTopBottom"
     },
     "entity": {
-        "prefab": "CoreBlocks:chest"
+        "prefab": "CoreAdvancedAssets:chest"
     }
 }

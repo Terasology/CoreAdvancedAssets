@@ -10,6 +10,6 @@
     "ExplosionAction": {
         "relativeTo": "Target",
         "maxRange": 256,
-        "damageType": "CoreItems:DestructiveExplosiveDamage"
+        "damageType": "CoreAdvancedAssets:DestructiveExplosiveDamage"
     }
 }

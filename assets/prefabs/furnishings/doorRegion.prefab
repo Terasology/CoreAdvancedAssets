@@ -3,8 +3,8 @@
         "name": "Door"
     },
     "Door": {
-        "topBlockFamily": "CoreBlocks:DoorTop",
-        "bottomBlockFamily": "CoreBlocks:DoorBottom",
+        "topBlockFamily": "CoreAdvancedAssets:DoorTop",
+        "bottomBlockFamily": "CoreAdvancedAssets:DoorBottom",
         "openSound": "CoreAssets:DoorOpen",
         "closeSound": "CoreAssets:DoorClose"
     },
@@ -15,13 +15,13 @@
         "waitBeforeRegen": 2,
         "destroyEntityOnNoHealth": true
     },
-    "BlockDropGrammar": {
+    "DropGrammar": {
         "itemDrops": [
-            "CoreBlocks:door"
+            "CoreAdvancedAssets:door"
         ]
     },
     "ActAsBlock": {
-        "block": "CoreBlocks:DoorTop"
+        "block": "CoreAdvancedAssets:DoorTop"
     },
     "Network": {}
 }

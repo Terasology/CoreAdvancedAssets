@@ -8,6 +8,6 @@
         "bottom": "CoreAssets:TntBottom"
     },
     "entity": {
-        "prefab": "CoreBlocks:TNT"
+        "prefab": "CoreAdvancedAssets:TNT"
     }
 }
