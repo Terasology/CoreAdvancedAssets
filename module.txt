@@ -1,6 +1,7 @@
 {
     "id" : "CoreAdvancedAssets",
     "version" : "1.0.0",
+    "isReleaseManaged": true,
     "author" : "The Terasology Foundation",
     "displayName" : "CoreAdvancedAssets",
     "description" : "A collection of assets using and combining features from various (core) modules.",
