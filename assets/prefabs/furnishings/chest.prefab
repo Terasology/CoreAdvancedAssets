@@ -61,5 +61,8 @@
         "screen": "inventory:containerScreen"
     },
     "Network": {
-    }
+    },
+    "categories": ["wood"],
+    "hardness": 8,
+    "mass": 40
 }
