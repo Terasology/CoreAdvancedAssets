@@ -1,6 +1,6 @@
 {
     "id" : "CoreAdvancedAssets",
-    "version" : "1.220",
+    "version" : "1.2.0",
     "isReleaseManaged": true,
     "author" : "The Terasology Foundation",
     "displayName" : "CoreAdvancedAssets",
