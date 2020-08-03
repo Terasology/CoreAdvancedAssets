@@ -1,0 +1,27 @@
+{
+  "DisplayName": {
+    "name": "Cyan Door"
+  },
+  "Door": {
+    "topBlockFamily": "CoreAssets:door-cyan-top",
+    "bottomBlockFamily": "CoreAssets:door-cyan-bottom",
+    "openSound": "CoreAssets:DoorOpen",
+    "closeSound": "CoreAssets:DoorClose"
+  },
+  "Health": {
+    "currentHealth": 5,
+    "maxHealth": 5,
+    "regenRate": 1,
+    "waitBeforeRegen": 2,
+    "destroyEntityOnNoHealth": true
+  },
+  "DropGrammar": {
+    "itemDrops": [
+      "CoreAdvancedAssets:door-cyan"
+    ]
+  },
+  "ActAsBlock": {
+    "block": "CoreAdvancedAssets:door-cyan-top"
+  },
+  "Network": {}
+}
