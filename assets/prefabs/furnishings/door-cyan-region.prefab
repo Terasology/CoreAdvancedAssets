@@ -3,8 +3,8 @@
     "name": "Cyan Door"
   },
   "Door": {
-    "topBlockFamily": "HjerlHede:door-cyan-top",
-    "bottomBlockFamily": "HjerlHede:door-cyan-bottom",
+    "topBlockFamily": "CoreAssets:door-cyan-top",
+    "bottomBlockFamily": "CoreAssets:door-cyan-bottom",
     "openSound": "CoreAssets:DoorOpen",
     "closeSound": "CoreAssets:DoorClose"
   },
@@ -17,11 +17,11 @@
   },
   "DropGrammar": {
     "itemDrops": [
-      "HjerlHede:door-cyan"
+      "CoreAdvancedAssets:door-cyan"
     ]
   },
   "ActAsBlock": {
-    "block": "HjerlHede:door-cyan-top"
+    "block": "CoreAssets:door-cyan-top"
   },
   "Network": {}
 }

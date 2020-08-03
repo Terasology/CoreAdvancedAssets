@@ -3,8 +3,8 @@
     "name": "Bar Door"
   },
   "Door": {
-    "topBlockFamily": "HjerlHede:door-bar-top",
-    "bottomBlockFamily": "HjerlHede:door-bar-bottom",
+    "topBlockFamily": "CoreAssets:door-bar-top",
+    "bottomBlockFamily": "CoreAssets:door-bar-bottom",
     "openSound": "CoreAssets:DoorOpen",
     "closeSound": "CoreAssets:DoorClose"
   },
@@ -17,11 +17,11 @@
   },
   "DropGrammar": {
     "itemDrops": [
-      "HjerlHede:door-bar"
+      "CoreAdvancedAssets:door-bar"
     ]
   },
   "ActAsBlock": {
-    "block": "HjerlHede:door-bar-top"
+    "block": "CoreAssets:door-bar-top"
   },
   "Network": {}
 }

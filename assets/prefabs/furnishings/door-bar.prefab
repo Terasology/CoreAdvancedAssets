@@ -5,16 +5,16 @@
   },
   "Item": {
     "icon": "engine:items#door",
-    "stackId": "HjerlHede:door-bar",
+    "stackId": "CoreAdvancedAssets:door-bar",
     "consumedOnUse": true,
     "usage": "ON_BLOCK"
   },
   "Door": {
-    "topBlockFamily": "HjerlHede:door-bar-top",
-    "bottomBlockFamily": "HjerlHede:door-bar-bottom",
+    "topBlockFamily": "CoreAssets:door-bar-top",
+    "bottomBlockFamily": "CoreAssets:door-bar-bottom",
     "openSound": "CoreAssets:DoorOpen",
     "closeSound": "CoreAssets:DoorClose",
-    "doorRegionPrefab": "HjerlHede:door-bar-region"
+    "doorRegionPrefab": "CoreAdvancedAssets:door-bar-region"
   },
   "Health": {
     "currentHealth": 5,
@@ -24,9 +24,9 @@
     "destroyEntityOnNoHealth": true
   },
   "DropGrammar": {
-    "itemDrops": ["HjerlHede:door-bar"]
+    "itemDrops": ["CoreAdvancedAssets:door-bar"]
   },
   "ActAsBlock": {
-    "block": "HjerlHede:door-bar-top"
+    "block": "CoreAssets:door-bar-top"
   }
 }
