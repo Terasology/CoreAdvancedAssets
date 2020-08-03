@@ -27,6 +27,6 @@
     "itemDrops": ["CoreAdvancedAssets:door-bar"]
   },
   "ActAsBlock": {
-    "block": "CoreAssets:door-bar-top"
+    "block": "CoreAdvancedAssets:door-bar-top"
   }
 }

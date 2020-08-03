@@ -27,6 +27,6 @@
     "itemDrops": ["CoreAdvancedAssets:door-cyan"]
   },
   "ActAsBlock": {
-    "block": "CoreAssets:door-cyan-top"
+    "block": "CoreAdvancedAssets:door-cyan-top"
   }
 }
