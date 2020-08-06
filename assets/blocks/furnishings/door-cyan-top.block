@@ -1,4 +1,7 @@
 {
   "parent": "CoreAdvancedAssets:DoorTop",
-  "shape": "CoreAssets:door"
+  "shape": "CoreAssets:door",
+  "translucent": true,
+  "shadowCasting": false,
+  "tile": "CoreAssets:door-cyan-top"
 }

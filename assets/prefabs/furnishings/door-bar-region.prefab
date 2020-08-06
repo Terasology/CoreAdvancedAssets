@@ -3,8 +3,8 @@
     "name": "Bar Door"
   },
   "Door": {
-    "topBlockFamily": "CoreAssets:door-bar-top",
-    "bottomBlockFamily": "CoreAssets:door-bar-bottom",
+    "topBlockFamily": "CoreAdvancedAssets:door-bar-top",
+    "bottomBlockFamily": "CoreAdvancedAssets:door-bar-bottom",
     "openSound": "CoreAssets:DoorOpen",
     "closeSound": "CoreAssets:DoorClose"
   },

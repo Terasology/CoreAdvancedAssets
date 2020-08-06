@@ -10,8 +10,8 @@
     "usage": "ON_BLOCK"
   },
   "Door": {
-    "topBlockFamily": "CoreAssets:door-bar-top",
-    "bottomBlockFamily": "CoreAssets:door-bar-bottom",
+    "topBlockFamily": "CoreAdvancedAssets:door-bar-top",
+    "bottomBlockFamily": "CoreAdvancedAssets:door-bar-bottom",
     "openSound": "CoreAssets:DoorOpen",
     "closeSound": "CoreAssets:DoorClose",
     "doorRegionPrefab": "CoreAdvancedAssets:door-bar-region"

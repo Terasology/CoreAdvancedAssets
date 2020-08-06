@@ -2,5 +2,6 @@
   "parent": "CoreAdvancedAssets:DoorBottom",
   "shape": "CoreAssets:door",
   "translucent": true,
-  "shadowCasting": false
+  "shadowCasting": false,
+  "tile": "CoreAssets:door-bar-bottom"
 }
