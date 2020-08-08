@@ -10,8 +10,8 @@
     "usage": "ON_BLOCK"
   },
   "Door": {
-    "topBlockFamily": "CoreAssets:door-cyan-top",
-    "bottomBlockFamily": "CoreAssets:door-cyan-bottom",
+    "topBlockFamily": "CoreAdvancedAssets:door-cyan-top",
+    "bottomBlockFamily": "CoreAdvancedAssets:door-cyan-bottom",
     "openSound": "CoreAssets:DoorOpen",
     "closeSound": "CoreAssets:DoorClose",
     "doorRegionPrefab": "CoreAdvancedAssets:door-cyan-region"
