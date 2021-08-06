@@ -1,4 +1,7 @@
 {
+    "DisplayName": {
+        "name": "${coreadvancedassets:game#furnishings-chest}"
+    },
     "InventoryAccess": {
         "input": {
             "top": "0..29",
