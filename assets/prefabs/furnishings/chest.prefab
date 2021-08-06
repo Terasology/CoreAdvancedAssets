@@ -1,6 +1,6 @@
 {
     "DisplayName": {
-        "name": "Chest"
+        "name": "${coreadvancedassets:game#furnishings-chest}"
     },
     "InventoryAccess": {
         "input": {
