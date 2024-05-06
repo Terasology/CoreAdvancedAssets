@@ -8,6 +8,6 @@
         "topBottom": "CoreAssets:FurnaceTopBottom"
     },
     "entity": {
-        "prefab": "CoreAdvancedAssets:chest"
+        "prefab": "CoreAdvancedAssets:furnace"
     }
 }
