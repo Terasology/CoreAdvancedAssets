@@ -19,6 +19,17 @@
     "DropGrammar": {
         "itemDrops": ["CoreAdvancedAssets:trunk"]
     },
+    "Inventory": {
+        "privateToOwner": false,
+        "itemSlots": [
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+        ]
+    },
     "Network": {
     }
 }
